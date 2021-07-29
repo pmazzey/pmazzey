@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pedro Mazzey,
+- 👀 I’m interested in web design, photography, video editing.
+- 🌱 I'm currently learning HTML, CSS and Javascript.
+- 📫 You can send me a DM on my instagram @pmazzey_photo or you can just sent me an email to pmmv3107@gmail.com
